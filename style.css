@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    background-color: #F4F5F6;
+    
+    align-items: center;
+}
+
+.side-img-placeholder {
+    height: 1398px;
+}
+
+.signup-area {
+    display: flex;
+    flex-direction: column;
+    margin: 200px;
+}
+
+.signup-area > :first-child > p {
+    margin: 50px;
+    font-size: 50px;
+}
+
+.user-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.user-info > div >*{
+    margin: 50px;
+}
+
+.signup-area > :last-child {
+    margin: 50px;
+}
+
+.signup-area > :last-child {
+
+}
+
