@@ -35,11 +35,22 @@ body {
     margin: 50px;
 }
 
+.user-info > div > div> input {
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid #585a5c;
+}
+
 .signup-area > :last-child {
     margin: 50px;
 }
 
-.signup-area > :last-child {
+.signup-area > div > button {
+    padding: 10px;
+    border-radius: 15px;
 
+    margin: 50px 50px 50px 0px;
 }
+
+
 
